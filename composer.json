@@ -1,0 +1,20 @@
+{
+  "name": "jasonej/bootable-traits",
+  "description": "Quickly and easily enable booting of traits in any class.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jason Jones",
+      "email": "jason.erik.jones+github@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^9.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Jasonej\\BootableTraits\\": "src/"
+    }
+  }
+}
