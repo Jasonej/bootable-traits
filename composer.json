@@ -2,7 +2,7 @@
   "name": "jasonej/bootable-traits",
   "description": "Quickly and easily enable booting of traits in any class.",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
       "name": "Jason Jones",
